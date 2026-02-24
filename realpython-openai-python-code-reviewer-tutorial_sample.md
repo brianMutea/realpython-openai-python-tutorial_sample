@@ -2,7 +2,7 @@
 
 You’ve just finished writing a Python function. Your tests pass, but you still wonder: Is the error handling robust? Did you miss an edge case? Is there a more Pythonic way to structure this?
 
-Instead of copying code into a browser-based chat tool, you can integrate OpenAI directly into your Python workflow. By calling the API from your own script, you decide what is sent, how the model should respond, and where the output goes. The result can be printed to your terminal, written to a file, attached to a Slack message, or included in a CI report.
+You can integrate OpenAI directly into your Python workflow. By calling the API from your own script, you decide what is sent, how the model should respond, and where the output goes. The result can be printed to your terminal, written to a file, attached to a Slack message, or included in a CI report.
 
 In this tutorial, you'll learn:
 
@@ -16,7 +16,7 @@ In this tutorial, you'll learn:
 * Familiarity with OpenAI’s Python API, [openai](https://github.com/openai/openai-python).  
 * Basic Python knowledge
 
-# What the OpenAI Python SDK Is
+# What is the OpenAI Python SDK?
 
 The `openai` package is the official Python client for OpenAI's API. It gives you programmatic access to GPT-5.2, GPT-4o, GPT-4o mini, and [other models](https://developers.openai.com/api/docs/models) directly from your Python code. It handles API requests, responses, and model configuration so you don’t need to write raw HTTP code. You can use it to generate text, summaries, classifications, and more.
 
