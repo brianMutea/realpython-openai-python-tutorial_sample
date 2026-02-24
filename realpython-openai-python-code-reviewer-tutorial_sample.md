@@ -28,7 +28,7 @@ code-reviewer/
 ├── users.csv
 └── review.py
 ```
-You can find these here:
+You can find the files below:
 
 * [data_parser.py](data_parser.py)
 * [users.csv](users.csv)
