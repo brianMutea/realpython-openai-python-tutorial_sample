@@ -52,11 +52,11 @@ Get your key at: https://platform.openai.com/api-keys
 
 Run the reviewer against any Python file:
 
-python review.py <path_to_file.py>
+```bash python review.py <path_to_file.py>```
 
 Example:
 
-`python review.py data_parser.py`
+```bash python review.py data_parser.py```
 
 Sample Output
 ![Sample Output](sample_reviewer_output.png)
