@@ -10,15 +10,16 @@ In this tutorial, you'll learn:
 * How to set it up in your Python environment  
 * How to use it to automate code review in your own projects
 
+# The OpenAI Python SDK
+
+The `openai` package is the official Python client for OpenAI's API. It gives you programmatic access to GPT-5.2, GPT-4o, GPT-4o mini, and [other models](https://developers.openai.com/api/docs/models) directly from your Python code. It handles API requests, responses, and model configuration so you don’t need to write raw HTTP code. You can use it to generate text, summaries, classifications, and more.
+
 # **Prerequisites**
 
 * You'll need an OpenAI account with a funded API key. Create one at [platform.openai.com/api-keys](https://platform.openai.com/api-keys). Add credits at [platform.openai.com/account/billing](https://platform.openai.com/account/billing) before proceeding.  
-* Familiarity with OpenAI’s Python API, [openai](https://github.com/openai/openai-python).  
-* Basic Python knowledge
-
-# What is the OpenAI Python SDK?
-
-The `openai` package is the official Python client for OpenAI's API. It gives you programmatic access to GPT-5.2, GPT-4o, GPT-4o mini, and [other models](https://developers.openai.com/api/docs/models) directly from your Python code. It handles API requests, responses, and model configuration so you don’t need to write raw HTTP code. You can use it to generate text, summaries, classifications, and more.
+* Basic familiarity with OpenAI’s Python API, [openai](https://github.com/openai/openai-python).  
+* Familiality with Python and Python virtual environments
+* Python 3.9+
 
 For this project, your working directory will contain the following files:
 
