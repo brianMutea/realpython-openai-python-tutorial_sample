@@ -24,10 +24,16 @@ For this project, your working directory will contain the following files:
 
 ```
 code-reviewer/   
-├── [data_parser.py](data_parser.py)
-├── [users.csv](users.csv)
-└── [review.py](review.py)
+├── data_parser.py
+├── users.csv
+└── review.py
 ```
+You can find these here:
+
+* [data_parser.py](data_parser.py)
+* [users.csv](users.csv)
+* [review.py](review.py)
+
 # Step1: Create and Activate a Virtual Environment
 
 Create and activate a virtual environment: 
