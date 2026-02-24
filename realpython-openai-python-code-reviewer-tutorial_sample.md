@@ -164,5 +164,5 @@ Finally, treat GPT-4o's output as a starting point, not a final verdict. Read ev
 
 After building the basic review script, you can explore streaming responses for large files or structured outputs such as JSON. Structured responses allow you to parse suggestions programmatically and filter them by severity before presenting them to your team.
 
-By embedding AI directly into your Python tooling, you transform code review from a manual task into a repeatable, scriptable process under your control.
+By embedding AI directly into your Python workflow, you transform code review from a manual task into a repeatable, scriptable process under your control.
 
