@@ -1,28 +1,7 @@
-"""
-review.py
 
-A command-line tool that uses the OpenAI API to perform a structured
-code review on any Python file. Designed to catch issues a senior
-Python developer would flag: correctness, style, security, and
-maintainability — not just surface-level formatting.
-
-Usage:
-    python review.py <path_to_file.py>
-
-Example:
-    python review.py src/data_parser.py
-
-Requirements:
-    - openai >= 1.0.0  (pip install openai)
-    - OPENAI_API_KEY environment variable set
-
-Output:
-    Structured review printed to stdout with severity levels,
-    line references, and actionable recommendations.
-"""
-
-from dotenv import load_dotenv
-load_dotenv()
+# optional from .env file is used:
+    # from dotenv import load_dotenv
+    # load_dotenv()
 
 import os
 import sys
