@@ -60,7 +60,7 @@ Example:
 
 **Sample Output**
 
-![](sample_reviewer_output.png)
+![Sample Output](sample_reviewer_output.png)
 
 ```
 python3 reviewer.py dataparser.py 
