@@ -133,6 +133,9 @@ if __name__ == "__main__":
 Run it against any file in your project:  
 `python review.py data_parser.py`
 
+* Sample output:
+![Sample Output](sample_reviewer_output.png)
+
 GPT-4o reads the full source, applies the three review criteria we have specified, and returns actionable feedback tied to your actual code.
 
 Notice the `system` message in the request. This is where you establish the model's role and constraints *before* sending the code. Separating the reviewer's persona ("experienced Python developer," "do not rewrite the code") from the actual task keeps your prompts cleaner and produces more consistent responses across different files.
