@@ -58,7 +58,8 @@ Example:
 
 ```bash python review.py data_parser.py```
 
-Sample Output
+** Sample Output **
+
 ![Sample Output](sample_reviewer_output.png)
 
 ```
