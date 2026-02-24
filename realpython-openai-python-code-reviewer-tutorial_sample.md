@@ -134,6 +134,7 @@ Run it against any file in your project:
 `python review.py data_parser.py`
 
 **Sample output:**
+
 ![Sample Output](sample_reviewer_output.png)
 
 GPT-4o reads the full source, applies the three review criteria we have specified, and returns actionable feedback tied to your actual code.
