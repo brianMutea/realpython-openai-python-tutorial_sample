@@ -32,7 +32,7 @@ You can find these here:
 
 * [data_parser.py](dataparser.py)
 * [users.csv](users.csv)
-* [review.py](review.py)
+* [reviewer.py](reviewer.py)
 
 # Step1: Create and Activate a Virtual Environment
 
