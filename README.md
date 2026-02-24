@@ -67,11 +67,11 @@ python review.py data_parser.py
 ![Sample Output](sample_reviewer_output.png)
 
 ```
-python3 reviewer.py dataparser.py 
-Reviewing 'dataparser.py' with gpt-4o...
+python3 reviewer.py data_parser.py 
+Reviewing 'data_parser.py' with gpt-4o...
 
 ============================================================
-  CODE REVIEW: dataparser.py
+  CODE REVIEW: data_parser.py
   Model: gpt-4o
 ============================================================
 
